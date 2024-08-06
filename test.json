@@ -2,14 +2,7 @@
 [
     {
         "name": "Channel 1",
-        "streamUrl": "https://iptv-org.github.io/iptv/categories/animation.m3u"
-    },
-    {
-        "name": "Channel 2",
-        "streamUrl": "https://iptv-org.github.io/iptv/categories/business.m3u"
-    },
-    {
-        "name": "Channel 3",
-        "streamUrl": "https://iptv-org.github.io/iptv/categories/classic.m3u"
+        "streamUrl": "https://amchls.wns.live/hls/stream.m3u8"
     }
+  
 ]
